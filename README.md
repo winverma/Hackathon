@@ -1,2 +1,1 @@
-# Hackathon
-Python Chatbot
+# Hackathon Repo
